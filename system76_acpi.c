@@ -45,6 +45,7 @@ static const enum led_brightness kb_levels[] = {
 // Array of keyboard LED colors in 24-bit RGB format
 static const int kb_colors[] = {
 	0xFFFFFF,
+  0x3C2A77,
 	0x0000FF,
 	0xFF0000,
 	0xFF00FF,
